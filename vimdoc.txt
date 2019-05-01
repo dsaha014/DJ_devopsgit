@@ -1,0 +1,2 @@
+Hi
+This document is prepared by vim editor
